@@ -1,0 +1,160 @@
+body {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 1;
+    margin:0;
+}
+input, textarea, select, button{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #000;
+}
+a,
+span,
+div,
+
+ul,
+ol,
+li,
+
+form,
+input,
+label,
+button,
+select,
+option,
+textarea,
+
+table,
+tbody,
+thead,
+tfoot,
+th,
+tr,
+td,
+
+audio,
+video,
+
+canvas,
+code,
+i,
+p,
+pre,
+canvas,
+
+nav,
+header,
+footer,
+article,
+
+:after,
+:before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    /*vertical-align: top;*/
+    line-height: 1.5;
+}
+i {
+    font-style: normal;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+}
+input {
+    border: 1px solid #000;
+    padding:5px 10px;
+    font-size: 12px;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+button {
+    outline: none;
+    text-align: center;
+    border: 1px solid #000;
+    opacity: 0.8;
+    padding:5px 10px;
+    font-size: 12px;
+}
+button:hover {
+    opacity: 1;
+}
+button:active {
+    outline: 1px solid #A6C7FF;
+}
+h1 {
+    font-size: 36px;
+}
+h2 {
+    font-size: 30px;
+}
+h3 {
+    font-size: 24px;
+}
+h4 {
+    font-size: 18px;
+}
+h5 {
+    font-size: 14px;
+}
+h6 {
+    font-size: 12px;
+}
+p {
+    font-size: 12px;
+}
+select{
+    padding:5px 10px;
+}
+option{
+    padding:5px 10px;
+}
+textarea{
+    padding:5px 10px;
+}
+video{
+    background-color: #ccc;
+}
+audio{
+    background-color: #ccc;
+}
+a,
+span,
+div,
+input,
+ul,
+li,
+form,
+label,
+button,
+canvas,
+code,
+i,
+ol,
+p,
+select,
+table,
+tr,
+td,
+textarea,
+pre,
+option,
+canvas,
+audio,
+video,
+nav,
+header,
+footer,
+article{
+
+}
