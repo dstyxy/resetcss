@@ -133,6 +133,9 @@ video{
 audio{
     background-color: #ccc;
 }
+img{
+    background-color: #eee;
+}
 a,
 span,
 div,
