@@ -136,6 +136,7 @@ audio{
 }
 img{
     background-color: #eee;
+    max-width: 100%;
 }
 a,
 span,
