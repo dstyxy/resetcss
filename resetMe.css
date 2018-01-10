@@ -1,65 +1,16 @@
 html{
     font-size: 1px;
-}
-body {
-    -webkit-box-sizing: border-box;
     box-sizing: border-box;
     font-family: sans-serif;
-    font-size: 12rem;
-    line-height: 1;
-    margin:0;
 }
-input, textarea, select, button{
-    font-family: sans-serif;
-    font-size: 12rem;
-    color: #000;
-}
-a,
-span,
-div,
-
-ul,
-ol,
-li,
-
-form,
-input,
-label,
-button,
-select,
-option,
-textarea,
-
-table,
-tbody,
-thead,
-tfoot,
-th,
-tr,
-td,
-
-audio,
-video,
-
-canvas,
-code,
-i,
-p,
-pre,
-canvas,
-
-nav,
-header,
-footer,
-article,
-
+*
 :after,
 :before {
-    -webkit-box-sizing: inherit;
     box-sizing: inherit;
     margin: 0;
     padding: 0;
-    line-height: 1.5;
+    font-size: 12rem;
+    line-height: 1;
 }
 i {
     font-style: normal;
@@ -113,9 +64,6 @@ h5 {
 h6 {
     font-size: 12rem;
 }
-h1,h2,h3,h4,h5,h6{
-    margin:0;
-}
 p {
     font-size: 12rem;
 }
@@ -137,34 +85,4 @@ audio{
 img{
     background-color: #eee;
     max-width: 100%;
-}
-a,
-span,
-div,
-input,
-ul,
-li,
-form,
-label,
-button,
-canvas,
-code,
-i,
-ol,
-p,
-select,
-table,
-tr,
-td,
-textarea,
-pre,
-option,
-canvas,
-audio,
-video,
-nav,
-header,
-footer,
-article{
-
 }
