@@ -3,13 +3,16 @@ html{
     box-sizing: border-box;
     font-family: sans-serif;
 }
+body{
+    font-size: 12rem;
+}
 *
 :after,
 :before {
     box-sizing: inherit;
     margin: 0;
     padding: 0;
-    font-size: 12rem;
+    font-size: inherit;
     line-height: 1;
 }
 i {
@@ -83,6 +86,5 @@ audio{
     background-color: #ccc;
 }
 img{
-    background-color: #eee;
     max-width: 100%;
 }
